@@ -1,0 +1,1 @@
+!wget https://github.com/ayumiymk/aster.pytorch/releases/download/v1.0/demo.pth.tar
